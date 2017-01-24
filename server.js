@@ -8,7 +8,7 @@ var app = require('express')()
 , User = require('./UserModel.js')
 , speakeasy = require('speakeasy');
 
-mongoose.connect('mongodb://localhost/cherrydoorphone');
+mongoose.connect('mongodb://localhost/phoneverification');
 mongoose.set('debug', true);
 
 server.listen(3000);

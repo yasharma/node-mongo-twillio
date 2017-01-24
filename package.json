@@ -1,7 +1,7 @@
 {
   "name": "TwilioNodePhoneVerification",
   "version": "0.0.1",
-  "author": "Yash Sharma <yash_sharma@seologistics.com>",
+  "author": "Yash Sharma <yashsharma205@gmail.com>",
   "description": "a simple example of verifying a user's phone number using Node.js and Twilio",
   "dependencies": {
     "dotenv": "^4.0.0",
