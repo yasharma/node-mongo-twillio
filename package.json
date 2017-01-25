@@ -4,7 +4,6 @@
   "author": "Yash Sharma <yashsharma205@gmail.com>",
   "description": "a simple example of verifying a user's phone number using Node.js and Twilio",
   "dependencies": {
-    "body-parser": "^1.16.0",
     "dotenv": "^4.0.0",
     "express": "3.3.x",
     "socket.io": "^1.0.6",
